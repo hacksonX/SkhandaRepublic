@@ -14,6 +14,7 @@ public class AppointMenterWebAppApplicationTests {
 		System.out.println("Shaun");
 		System.out.println("Andile");
 		System.out.println("Shaun1");
+		System.out.println("Andile1");
 	}
 
 }
