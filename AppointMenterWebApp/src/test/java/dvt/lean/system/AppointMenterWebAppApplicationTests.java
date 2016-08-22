@@ -12,6 +12,8 @@ public class AppointMenterWebAppApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("Shaun");
+		System.out.println("Andile");
+		
 	}
 
 }
