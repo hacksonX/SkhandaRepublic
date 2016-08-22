@@ -13,7 +13,7 @@ public class AppointMenterWebAppApplicationTests {
 	public void contextLoads() {
 		System.out.println("Shaun");
 		System.out.println("Andile");
-		
+		System.out.println("Shaun1");
 	}
 
 }
